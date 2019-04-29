@@ -1,0 +1,9 @@
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.exe.config
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.exe
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Release\ProjectCleaner.pdb
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.main.resources
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.Properties.Resources.resources
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.csproj.GenerateResource.cache
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.csproj.CoreCompileInputs.cache
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.exe
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Release\ProjectCleaner.pdb

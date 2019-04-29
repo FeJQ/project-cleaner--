@@ -1,0 +1,10 @@
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.exe.config
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.exe
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\bin\Debug\ProjectCleaner.pdb
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csprojAssemblyReference.cache
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.main.resources
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.Properties.Resources.resources
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csproj.GenerateResource.cache
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.csproj.CoreCompileInputs.cache
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.exe
+E:\Program\Project File\ProjectCleaner\ProjectCleaner\obj\Debug\ProjectCleaner.pdb
